@@ -44,22 +44,21 @@ This Open Training Guide (#OTG) is a learning resource that can be used by anyon
 
 # **Fonts used:**
 
-* **Title:** unknown
-* **Body Text:**  unknown
-* **Other:** unknown
+* **Titles & Subtitles:** Whatever It Takes [Download Font](https://www.dafont.com/whatever-it-takes.font)
+* **Body Text:**  Roboto [Download Font](https://www.1001freefonts.com/roboto.font)
 
 # **Text:**
 
-You can acess the text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
+You can acess the text files from the text folder [here](https://github.com/opencultureagency/Open-Training-Guide/tree/master/text)
 
 
 # **Images:**
 
-You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images)
+You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Training-Guide/tree/master/images)
 
-* [Source images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/src-img)
-* [Web preview images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/web-img)
-* [Logos](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/logos)
+* [Source images (189,4 MB) ](https://github.com/opencultureagency/Open-Training-Guide/tree/master/src-img)
+* [Web preview images](https://github.com/opencultureagency/Open-Training-Guide/tree/master/web-img)
+* [Logos](https://github.com/opencultureagency/Open-Training-Guide/tree/master/images/logos)
 
 # **Source File:**
 
