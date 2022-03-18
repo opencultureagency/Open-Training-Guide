@@ -55,7 +55,7 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 
 **Adobe Illustrator file: Not Available**  
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](#)
+* [Download Print-Ready PDF File](https://github.com/opencultureagency/Open-Training-Guide/blob/master/OTG-Print-ready.pdf)
 
 # **Editorial Team:**
 **Content Creator & Editor**
