@@ -47,7 +47,7 @@ You can acess the text files from the text folder [here](https://github.com/open
 
 You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Training-Guide/tree/master/images)
 
-* [Source images (189,4 MB) ](https://github.com/opencultureagency/Open-Training-Guide/tree/master/src-img)
+* [Source images (189,4 MB)](https://github.com/opencultureagency/Open-Training-Guide/tree/master/src-img)
 * [Web preview images](https://github.com/opencultureagency/Open-Training-Guide/tree/master/web-img)
 * [Logos](https://github.com/opencultureagency/Open-Training-Guide/tree/master/images/logos)
 
@@ -55,7 +55,7 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 
 **Adobe Illustrator file: Not Available**  
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](https://github.com/opencultureagency/Open-Training-Guide/blob/master/OTG-Print-ready.pdf)
+* [Download Print-Ready PDF File (17,8 MB)](https://github.com/opencultureagency/Open-Training-Guide/blob/master/OTG-Print-ready.pdf)
 
 # **Editorial Team:**
 **Content Creator & Editor**
