@@ -23,23 +23,14 @@ This Open Training Guide (#OTG) is a learning resource that can be used by anyon
 
 # **Color scheme + Hex Color Codes:**
 
-###  front page:
+###  front and back:
 
 * ![#1E3A6B](color-codes/1E3A6B.png) Background (dark blue): #1E3A6B
 * ![#F8E830](color-codes/F8E830.png) Background of Titles (Yellow): #F8E830
-* ![#F1F3A5](color-codes/F1F3A5.png) Background darkest: #F1F3A5
-
-
-###  back page
-
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
-
-
-### graphics + font colors (black, white and colors)
-
-* ![#529FCC](color-codes/529FCC.png) t-shirt 1 (Blue): #529FCC
-* ![#57AEE1](color-codes/57AEE1.png) t-shirt 2 (Blue): #57AEE1
-* ![#5594A6](color-codes/5594A6.png) Blazer (Blue): #5594A6
+* ![#E74051](color-codes/E74051.png) Background (Red): #E74051
+* ![#2C6DB5](color-codes/2C6DB5.png) Background (lighter Blue): #2C6DB5
+* ![#494242](color-codes/494242.png) Background (Charcoal Grey): #494242
+* ![#EC6B47](color-codes/EC6B47.png) Barckground (Orange): #EC6B47
 
 
 # **Fonts used:**
