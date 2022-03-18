@@ -17,7 +17,7 @@ This Open Training Guide (#OTG) is a learning resource that can be used by anyon
 ## Design Description
 
 
-![Open Training Guide front page](Open-Training-Guide-back.png)
+![Open Training Guide front page](Open-Training-Guide-front.png)
 ![Open Training Guide back page](Open-Training-Guide-back.png)
 
 
@@ -25,8 +25,8 @@ This Open Training Guide (#OTG) is a learning resource that can be used by anyon
 
 ###  front page:
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
-* ![#F3F5BA](color-codes/F3F5BA.png) Background darker: #F3F5BA
+* ![#1E3A6B](color-codes/1E3A6B.png) Background (dark blue): #1E3A6B
+* ![#F8E830](color-codes/F8E830.png) Background of Titles (Yellow): #F8E830
 * ![#F1F3A5](color-codes/F1F3A5.png) Background darkest: #F1F3A5
 
 
