@@ -4,15 +4,15 @@ This repository includes the material (texts / graphics / Source file / pdf) of 
 
 More about [#ASKnet](https://www.asknet.community/) here.
 
-\#ASKnet - Strengthening South Sudanese Youth in Leadership &amp; Training
+This Open Training Guide (#OTG) is a learning resource that can be used by anyone to facilitate easier Access to Skills and Knowledge. It offers tools and methodologies to help design and run your own training, wherever you may be, with whatever resources you have at hand.
 
-\#ASKnet - Sharing Skills and Knowledge
 
 \#ASKnet is a peer to peer community network that aims to raise media literacy and increase access to information for young innovators in and from South Sudan, Uganda and Kenya. Creating a network of trainers, the #ASKnet community hubs are working together to share their skills and experience. In 2018 #ASKnet workshop participants included local Rhino Camp community members, joined by prospective trainers from Bidibidi refugee settlement (Yumbe district), Adjumani district, the Kiryandongo refugee settlement (Bweyale) as well as South Sudan and Kenya.
 Open Training Guide
 
-This Open Training Guide (#OTG) is a learning resource that can be used by anyone to facilitate easier Access to Skills and Knowledge. It offers tools and methodologies to help design and run your own training, wherever you may be, with whatever resources you have at hand.
+\#ASKnet - Strengthening South Sudanese Youth in Leadership &amp; Training
 
+\#ASKnet - Sharing Skills and Knowledge
 
 ## Design Description
 
