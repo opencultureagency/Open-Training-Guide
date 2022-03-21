@@ -60,8 +60,9 @@ PDF Print-Ready file:
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Design:
-Assembled & Edited by:
+Content Created by: #ASKnet participants / r0g_agency
+Designed by:
+Assembled & Edited by: Jodi Rose and
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
